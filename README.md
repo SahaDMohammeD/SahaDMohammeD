@@ -1,13 +1,13 @@
-Hi 👋 My name is Mohamed Sabith
+Hi 👋 My name is Sahad Mohammed
 ============================
 
-Mern Stack Developer
+Node Js Developer
 -----------------
 
 Hello, I'm Sahad Mohammed , I am self-taught Node JS Developer.
 
 * 🌍  I'm based in Chelari 
-* 📫 How to reach me sahadmohammedclr@gmail.com
+* 📫  How to reach me sahadmohammedclr@gmail.com
 * 🚀  I'm currently internship at Brototype
 * 🧠  I'm learning Data Structure and Algorithms
 
