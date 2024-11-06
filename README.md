@@ -4,7 +4,7 @@ Hi 👋 My name is Sahad Mohammed
 Cyber Security Analyst
 -----------------
 
-Hello, I'm Sahad Mohammed , I am self-taught Node JS Developer.
+Hello, I'm Sahad Mohammed , I am Cyber Security Analyst.
 
 * 🌍  I'm based in Chelari 
 * 📫  How to reach me sahadmohammedclr@gmail.com
