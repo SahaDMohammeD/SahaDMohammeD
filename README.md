@@ -1,15 +1,13 @@
 Hi 👋 My name is Sahad Mohammed
 ============================
 
-Node Js Developer
+Cyber Security Analyst
 -----------------
 
 Hello, I'm Sahad Mohammed , I am self-taught Node JS Developer.
 
 * 🌍  I'm based in Chelari 
 * 📫  How to reach me sahadmohammedclr@gmail.com
-* 🚀  I'm currently internship at Brototype
-* 🧠  I'm learning Data Structure and Algorithms
 
 ### Skills
 
